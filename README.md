@@ -4,6 +4,10 @@
 
 This is a full-stack web application for task management, allowing users to register, log in, and manage their personal tasks. The application consists of a backend API built with Node.js and Express.js, and a frontend React application. Users can create, read, update, and delete tasks, with proper authentication and error handling to ensure a smooth user experience.
 
+## Screenshots
+
+![App Screenshot](screenshots/app.png)
+
 ## Tech Stack
 
 ### Backend
