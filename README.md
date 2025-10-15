@@ -25,10 +25,6 @@ This is a full-stack web application for task management, allowing users to regi
 
 ## Setup Instructions
 
-### Prerequisites
-- Node.js (version 14 or higher)
-- npm (comes with Node.js)
-
 ### Installation
 
 1. **Clone the repository** (if applicable) or navigate to the project directory.
