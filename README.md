@@ -97,8 +97,6 @@ All task-related endpoints require a Bearer token in the Authorization header.
 ```
 Tasks/
 ├── README.md
-├── package.json
-├── package-lock.json
 ├── postman_collection.json
 ├── backend/
 │   ├── .env
